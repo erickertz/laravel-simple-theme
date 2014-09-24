@@ -1,0 +1,20 @@
+{
+    "name": "tr1ck/theme",
+    "description": "",
+    "authors": [
+        {
+            "name": "1 Trick Pony",
+            "email": "dev@1trickpony.com"
+        }
+    ],
+    "require": {
+        "php": ">=5.4.0",
+        "illuminate/support": "4.2.*"
+    },
+    "autoload": {
+        "psr-0": {
+            "Tr1ck\\Theme": "src/"
+        }
+    },
+    "minimum-stability": "stable"
+}
